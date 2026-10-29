@@ -1,0 +1,3 @@
+../Core/Src/bh1750_implementation.c:4:8:platform_i2c_write	1
+../Core/Src/bh1750_implementation.c:17:8:platform_i2c_read	1
+../Core/Src/bh1750_implementation.c:30:6:platform_delay_ms	1

@@ -1,0 +1,4 @@
+../Core/Src/bh1750.c:7:17:bh1750_init	40	static
+../Core/Src/bh1750.c:34:17:bh1750_configure_mode	32	static
+../Core/Src/bh1750.c:50:17:bh1750_read_lux	32	static
+../Core/Src/bh1750.c:74:17:bh1750_power_down	32	static

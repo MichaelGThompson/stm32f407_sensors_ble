@@ -1,0 +1,4 @@
+../Core/Src/bh1750.c:7:17:bh1750_init	6
+../Core/Src/bh1750.c:34:17:bh1750_configure_mode	3
+../Core/Src/bh1750.c:50:17:bh1750_read_lux	5
+../Core/Src/bh1750.c:74:17:bh1750_power_down	3

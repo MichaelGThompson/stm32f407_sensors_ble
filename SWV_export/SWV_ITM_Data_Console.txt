@@ -1,0 +1,329 @@
+SWV ITM Data Console - ITM Port: 0
+--- mpu6050 accelerometer data: -1268 -312  16804
+Ax:-1268, Ay: -312, Ay: 16804
+--- BH1750 Lux value: 1082158762
+--- turn led on!
+--- mpu6050 accelerometer data: -1336 -340  16880
+Ax:-1336, Ay: -340, Ay: 16880
+--- BH1750 Lux value: 1082160469
+--- turn led on!
+--- mpu6050 accelerometer data: -1292 -360  16884
+Ax:-1292, Ay: -360, Ay: 16884
+--- BH1750 Lux value: 1082158762
+--- turn led on!
+--- mpu6050 accelerometer data: -1308 -348  16784
+Ax:-1308, Ay: -348, Ay: 16784
+--- BH1750 Lux value: 1082158762
+--- turn led on!
+--- mpu6050 accelerometer data: -1304 -392  16684
+Ax:-1304, Ay: -392, Ay: 16684
+--- BH1750 Lux value: 1082158762
+--- turn led on!
+--- mpu6050 accelerometer data: -1280 -372  16848
+Ax:-1280, Ay: -372, Ay: 16848
+--- BH1750 Lux value: 1082157056
+--- turn led on!
+--- mpu6050 accelerometer data: -1328 -372  16788
+Ax:-1328, Ay: -372, Ay: 16788
+--- BH1750 Lux value: 1082158762
+--- turn led on!
+--- mpu6050 accelerometer data: -1332 -360  16916
+Ax:-1332, Ay: -360, Ay: 16916
+--- BH1750 Lux value: 1082158762
+--- turn led on!
+--- mpu6050 accelerometer data: -1292 -356  16912
+Ax:-1292, Ay: -356, Ay: 16912
+--- BH1750 Lux value: 1082158762
+--- turn led on!
+--- mpu6050 accelerometer data: -1304 -396  16780
+Ax:-1304, Ay: -396, Ay: 16780
+--- BH1750 Lux value: 1082158762
+--- turn led on!
+--- mpu6050 accelerometer data: -1228 -380  16832
+Ax:-1228, Ay: -380, Ay: 16832
+--- BH1750 Lux value: 1082157056
+--- turn led on!
+--- mpu6050 accelerometer data: -1284 -316  16744
+Ax:-1284, Ay: -316, Ay: 16744
+--- BH1750 Lux value: 1082157056
+--- turn led on!
+--- mpu6050 accelerometer data: -1400 -352  16792
+Ax:-1400, Ay: -352, Ay: 16792
+--- BH1750 Lux value: 1082157056
+--- turn led on!
+--- mpu6050 accelerometer data: -1356 -380  16880
+Ax:-1356, Ay: -380, Ay: 16880
+--- BH1750 Lux value: 1082157056
+--- turn led on!
+--- mpu6050 accelerometer data: -1248 -344  16940
+Ax:-1248, Ay: -344, Ay: 16940
+--- BH1750 Lux value: 1082158762
+--- turn led on!
+--- mpu6050 accelerometer data: -1376 -312  16772
+Ax:-1376, Ay: -312, Ay: 16772
+--- BH1750 Lux value: 1082157056
+--- turn led on!
+--- mpu6050 accelerometer data: -1300 -320  16732
+Ax:-1300, Ay: -320, Ay: 16732
+--- BH1750 Lux value: 1082157056
+--- turn led on!
+--- mpu6050 accelerometer data: -1248 -336  16856
+Ax:-1248, Ay: -336, Ay: 16856
+--- BH1750 Lux value: 1082157056
+--- turn led on!
+--- mpu6050 accelerometer data: -1264 -316  16908
+Ax:-1264, Ay: -316, Ay: 16908
+--- BH1750 Lux value: 1082157056
+--- turn led on!
+--- mpu6050 accelerometer data: -1312 -392  16772
+Ax:-1312, Ay: -392, Ay: 16772
+--- BH1750 Lux value: 1082157056
+--- turn led on!
+--- mpu6050 accelerometer data: -1268 -356  16660
+Ax:-1268, Ay: -356, Ay: 16660
+--- BH1750 Lux value: 1082158762
+--- turn led on!
+--- mpu6050 accelerometer data: -1264 -404  16708
+Ax:-1264, Ay: -404, Ay: 16708
+--- BH1750 Lux value: 1082158762
+--- turn led on!
+--- mpu6050 accelerometer data: -1224 -340  16756
+Ax:-1224, Ay: -340, Ay: 16756
+--- BH1750 Lux value: 1082158762
+--- turn led on!
+--- mpu6050 accelerometer data: -1256 -416  16828
+Ax:-1256, Ay: -416, Ay: 16828
+--- BH1750 Lux value: 1082158762
+--- turn led on!
+--- mpu6050 accelerometer data: -1256 -372  16860
+Ax:-1256, Ay: -372, Ay: 16860
+--- BH1750 Lux value: 1082157056
+--- turn led on!
+--- mpu6050 accelerometer data: -1172 -500  16824
+Ax:-1172, Ay: -500, Ay: 16824
+--- BH1750 Lux value: 1082155349
+--- turn led on!
+--- mpu6050 accelerometer data: -1192 -368  16868
+Ax:-1192, Ay: -368, Ay: 16868
+--- BH1750 Lux value: 1082158762
+--- turn led on!
+--- mpu6050 accelerometer data: -1204 -356  16820
+Ax:-1204, Ay: -356, Ay: 16820
+--- BH1750 Lux value: 1082160469
+--- turn led on!
+--- mpu6050 accelerometer data: -1152 -324  16664
+Ax:-1152, Ay: -324, Ay: 16664
+--- BH1750 Lux value: 1082160469
+--- turn led on!
+--- mpu6050 accelerometer data: 1380 2512  17168
+Ax:1380, Ay: 2512, Ay: 17168
+--- BH1750 Lux value: 1082155349
+--- turn led on!
+--- mpu6050 accelerometer data: -12140 -5724  16840
+Ax:-12140, Ay: -5724, Ay: 16840
+--- BH1750 Lux value: 1082162176
+--- turn led on!
+--- mpu6050 accelerometer data: -12392 -9404  15580
+Ax:-12392, Ay: -9404, Ay: 15580
+--- BH1750 Lux value: 1081350826
+--- turn led on!
+--- mpu6050 accelerometer data: -2108 -968  16836
+Ax:-2108, Ay: -968, Ay: 16836
+--- BH1750 Lux value: 1076865706
+--- turn led off!
+--- mpu6050 accelerometer data: -1376 -544  16600
+Ax:-1376, Ay: -544, Ay: 16600
+--- BH1750 Lux value: 0
+--- turn led off!
+--- mpu6050 accelerometer data: -840 -304  16712
+Ax:-840, Ay: -304, Ay: 16712
+--- BH1750 Lux value: 1072343722
+--- turn led off!
+--- mpu6050 accelerometer data: -1212 -336  16860
+Ax:-1212, Ay: -336, Ay: 16860
+--- BH1750 Lux value: 0
+--- turn led off!
+--- mpu6050 accelerometer data: -836 -516  16500
+Ax:-836, Ay: -516, Ay: 16500
+--- BH1750 Lux value: 1072343722
+--- turn led off!
+--- mpu6050 accelerometer data: -1248 -476  16852
+Ax:-1248, Ay: -476, Ay: 16852
+--- BH1750 Lux value: 0
+--- turn led off!
+--- mpu6050 accelerometer data: -1212 -392  16764
+Ax:-1212, Ay: -392, Ay: 16764
+--- BH1750 Lux value: 0
+--- turn led off!
+--- mpu6050 accelerometer data: -1256 -424  16840
+Ax:-1256, Ay: -424, Ay: 16840
+--- BH1750 Lux value: 1072343722
+--- turn led off!
+--- mpu6050 accelerometer data: -1040 -356  16612
+Ax:-1040, Ay: -356, Ay: 16612
+--- BH1750 Lux value: 0
+--- turn led off!
+--- mpu6050 accelerometer data: -1152 -376  16868
+Ax:-1152, Ay: -376, Ay: 16868
+--- BH1750 Lux value: 0
+--- turn led off!
+--- mpu6050 accelerometer data: -924 -416  16884
+Ax:-924, Ay: -416, Ay: 16884
+--- BH1750 Lux value: 0
+--- turn led off!
+--- mpu6050 accelerometer data: -1296 -332  16820
+Ax:-1296, Ay: -332, Ay: 16820
+--- BH1750 Lux value: 1082060799
+--- turn led on!
+--- mpu6050 accelerometer data: -1284 -280  16936
+Ax:-1284, Ay: -280, Ay: 16936
+--- BH1750 Lux value: 1082180949
+--- turn led on!
+--- mpu6050 accelerometer data: -1304 -420  16848
+Ax:-1304, Ay: -420, Ay: 16848
+--- BH1750 Lux value: 1082165589
+--- turn led on!
+--- mpu6050 accelerometer data: -1344 -256  16796
+Ax:-1344, Ay: -256, Ay: 16796
+--- BH1750 Lux value: 1082165589
+--- turn led on!
+--- mpu6050 accelerometer data: -1356 -396  16812
+Ax:-1356, Ay: -396, Ay: 16812
+--- BH1750 Lux value: 1082165589
+--- turn led on!
+--- mpu6050 accelerometer data: -1336 -276  16780
+Ax:-1336, Ay: -276, Ay: 16780
+--- BH1750 Lux value: 1082163882
+--- turn led on!
+--- mpu6050 accelerometer data: -1284 -304  16972
+Ax:-1284, Ay: -304, Ay: 16972
+--- BH1750 Lux value: 1082167296
+--- turn led on!
+--- mpu6050 accelerometer data: -1244 -428  16752
+Ax:-1244, Ay: -428, Ay: 16752
+--- BH1750 Lux value: 1082169002
+--- turn led on!
+--- mpu6050 accelerometer data: -1320 -364  16876
+Ax:-1320, Ay: -364, Ay: 16876
+--- BH1750 Lux value: 1082167296
+--- turn led on!
+--- mpu6050 accelerometer data: -1284 -320  16816
+Ax:-1284, Ay: -320, Ay: 16816
+--- BH1750 Lux value: 1082167296
+--- turn led on!
+--- mpu6050 accelerometer data: -1268 -432  16836
+Ax:-1268, Ay: -432, Ay: 16836
+--- BH1750 Lux value: 1082169002
+--- turn led on!
+--- mpu6050 accelerometer data: -1288 -368  16792
+Ax:-1288, Ay: -368, Ay: 16792
+--- BH1750 Lux value: 1082165589
+--- turn led on!
+--- mpu6050 accelerometer data: -1280 -400  16756
+Ax:-1280, Ay: -400, Ay: 16756
+--- BH1750 Lux value: 1082167296
+--- turn led on!
+--- mpu6050 accelerometer data: -1336 -364  16840
+Ax:-1336, Ay: -364, Ay: 16840
+--- BH1750 Lux value: 1082165589
+--- turn led on!
+--- mpu6050 accelerometer data: -1328 -484  16784
+Ax:-1328, Ay: -484, Ay: 16784
+--- BH1750 Lux value: 1082165589
+--- turn led on!
+--- mpu6050 accelerometer data: -1268 -380  16956
+Ax:-1268, Ay: -380, Ay: 16956
+--- BH1750 Lux value: 1082167296
+--- turn led on!
+--- mpu6050 accelerometer data: -1284 -324  16840
+Ax:-1284, Ay: -324, Ay: 16840
+--- BH1750 Lux value: 1082167296
+--- turn led on!
+--- mpu6050 accelerometer data: -1276 -428  16756
+Ax:-1276, Ay: -428, Ay: 16756
+--- BH1750 Lux value: 1082169002
+--- turn led on!
+--- mpu6050 accelerometer data: -1276 -408  16864
+Ax:-1276, Ay: -408, Ay: 16864
+--- BH1750 Lux value: 1082167296
+--- turn led on!
+--- mpu6050 accelerometer data: -1308 -368  16816
+Ax:-1308, Ay: -368, Ay: 16816
+--- BH1750 Lux value: 1082167296
+--- turn led on!
+--- mpu6050 accelerometer data: -1260 -344  16832
+Ax:-1260, Ay: -344, Ay: 16832
+--- BH1750 Lux value: 1082169002
+--- turn led on!
+--- mpu6050 accelerometer data: -1288 -480  16936
+Ax:-1288, Ay: -480, Ay: 16936
+--- BH1750 Lux value: 1082167296
+--- turn led on!
+--- mpu6050 accelerometer data: -1308 -376  16872
+Ax:-1308, Ay: -376, Ay: 16872
+--- BH1750 Lux value: 1082167296
+--- turn led on!
+--- mpu6050 accelerometer data: -1316 -384  16820
+Ax:-1316, Ay: -384, Ay: 16820
+--- BH1750 Lux value: 1082167296
+--- turn led on!
+--- mpu6050 accelerometer data: -1300 -396  16648
+Ax:-1300, Ay: -396, Ay: 16648
+--- BH1750 Lux value: 1082167296
+--- turn led on!
+--- mpu6050 accelerometer data: -1344 -392  16776
+Ax:-1344, Ay: -392, Ay: 16776
+--- BH1750 Lux value: 1082167296
+--- turn led on!
+--- mpu6050 accelerometer data: -1296 -400  16812
+Ax:-1296, Ay: -400, Ay: 16812
+--- BH1750 Lux value: 1082167296
+--- turn led on!
+--- mpu6050 accelerometer data: -1292 -364  16840
+Ax:-1292, Ay: -364, Ay: 16840
+--- BH1750 Lux value: 1082169002
+--- turn led on!
+--- mpu6050 accelerometer data: -1284 -376  16740
+Ax:-1284, Ay: -376, Ay: 16740
+--- BH1750 Lux value: 1082169002
+--- turn led on!
+--- mpu6050 accelerometer data: -1356 -408  16740
+Ax:-1356, Ay: -408, Ay: 16740
+--- BH1750 Lux value: 1082167296
+--- turn led on!
+--- mpu6050 accelerometer data: -1300 -484  16824
+Ax:-1300, Ay: -484, Ay: 16824
+--- BH1750 Lux value: 1082169002
+--- turn led on!
+--- mpu6050 accelerometer data: -1268 -372  16820
+Ax:-1268, Ay: -372, Ay: 16820
+--- BH1750 Lux value: 1082169002
+--- turn led on!
+--- mpu6050 accelerometer data: -1280 -332  16852
+Ax:-1280, Ay: -332, Ay: 16852
+--- BH1750 Lux value: 1082165589
+--- turn led on!
+--- mpu6050 accelerometer data: -1304 -412  16868
+Ax:-1304, Ay: -412, Ay: 16868
+--- BH1750 Lux value: 1082165589
+--- turn led on!
+--- mpu6050 accelerometer data: -1288 -416  16836
+Ax:-1288, Ay: -416, Ay: 16836
+--- BH1750 Lux value: 1082165589
+--- turn led on!
+--- mpu6050 accelerometer data: -1292 -332  16792
+Ax:-1292, Ay: -332, Ay: 16792
+--- BH1750 Lux value: 1082167296
+--- turn led on!
+--- mpu6050 accelerometer data: -1264 -432  16812
+Ax:-1264, Ay: -432, Ay: 16812
+--- BH1750 Lux value: 1082165589
+--- turn led on!
+--- mpu6050 accelerometer data: -1252 -388  16800
+Ax:-1252, Ay: -388, Ay: 16800
+--- BH1750 Lux value: 1082167296
+--- turn led on!
+--- mpu6050 accelerometer data: -1308 -384  16780
+Ax:-1308, Ay: -384, Ay: 16780
+--- BH1750 Lux value: 1082169002
+--- turn led on!
